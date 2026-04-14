@@ -1,4 +1,4 @@
-# clip (clipx)
+# clipx (clip)
 
 Cross-platform clipboard utility: stdin → clipboard, clipboard → stdout
 
@@ -80,8 +80,8 @@ git commit -m "Add script"
 ### AI → clipboard → file → git
 
 ```sh
-runai -t "Generate helper script" | clip
-clip -p > helper.sh
+runai -t "Generate helper script" | clipx
+clipx -p > helper.sh
 ```
 
 No editor. No mouse. No context switching.
