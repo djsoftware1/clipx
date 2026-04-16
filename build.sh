@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
-# https://github.com/djsoftware1/clip
-#
+# https://github.com/djsoftware1/clipx
+# Copyright David Joffe / DJ Software. MIT License
 # Created by David Joffe
 # Created 8 Jan 2026
 
@@ -12,7 +12,7 @@ DJNAME="clipx"
 BUILD_DIR=${BUILD_DIR:-build}
 BUILD_TYPE=${BUILD_TYPE:-Relesase}
 
-echo "==> Building"
+echo "== Building"
 echo "    build dir : $BUILD_DIR"
 echo "    build type: $BUILD_TYPE"
 
