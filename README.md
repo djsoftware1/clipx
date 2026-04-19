@@ -1,8 +1,11 @@
 # clipx (clip)
 
-Cross-platform clipboard utility: stdin → clipboard, clipboard → stdout
+Cross-platform clipboard utility: stdin → clipboard, clipboard → stdout. 'clipx' to copy, 'clipx -p' to paste.
+
+[![clipx and for-each other examples](https://github.com/djsoftware1/.github/raw/main/media/dj-software-open-utils-for-each-examples.png)](https://github.com/djsoftware1/clipx/)
 
 **`clipx` is a small, cross-platform command-line clipboard utility.**  
+
 It gives you a single, consistent way to copy *to* and paste *from* the system clipboard — everywhere.
 
 No more remembering `pbcopy`, `pbpaste`, `xclip`, `wl-copy`, PowerShell commands, or wondering what’s installed.
